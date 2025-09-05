@@ -14,12 +14,7 @@ This project showcases:
 ## 🛠️ Tools & Technologies Used
 ⚙️ Programming Language
 - Python 3 🐍
-
-
----
-
-
-## 📚 Libraries
+### 📚 Libraries
 - pandas 🧮 → Data manipulation
 - numpy ➗ → Numerical computations
 - matplotlib 🎨 → Static charts
