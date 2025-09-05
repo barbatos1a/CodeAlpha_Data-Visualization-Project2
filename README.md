@@ -25,9 +25,9 @@ This project showcases:
 
 ---
 
-##📂 Dataset Details
+## 📂 Dataset Details
 - 📑 Source: Global Population Dataset.csv
-- 📊 Contents: Population data by countries across years, with some additional metrics like population density (if available).
+- 📊 Contents: Population data by countries across years, with some additional metrics like population density.
 - 🔢 Format: CSV file
 
 
