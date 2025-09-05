@@ -1,6 +1,4 @@
-## 🌍 Global Population Data Visualization Project 1
----
-
+## 🎯🌍 Global Population Data Visualization Project 1 🚀
 
 ## 📌 Project Overview:
 Welcome to my Global Population Data Visualization Project 🎉.
