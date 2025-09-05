@@ -9,9 +9,15 @@ This project showcases:
 - Static & Interactive Visualizations 📈
 - Automated Reporting (Markdown + PPTX) 📝💡
 
+---
+
 ## 🛠️ Tools & Technologies Used
 ⚙️ Programming Language
 - Python 3 🐍
+
+
+---
+
 
 ## 📚 Libraries
 - pandas 🧮 → Data manipulation
@@ -78,7 +84,6 @@ A .md file summarizing:
 - ✅ Years covered in the dataset
 - ✅ Top 5 countries by population
 - ✅ Top 5 countries by CAGR (2010–2024)
-
 ### 🎥 PowerPoint Report (Auto-Generated with python-pptx)
 A full PowerPoint presentation with:
 - 🖼️ Title slide
